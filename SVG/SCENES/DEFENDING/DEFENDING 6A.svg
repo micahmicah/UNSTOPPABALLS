@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="286px" height="420px" viewBox="0 0 286 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>LAYOUT</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="SEQUENCE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="DEFENDING-6-A" sketch:type="MSArtboardGroup" transform="translate(-17.000000, -59.000000)">
+            <g id="LAYOUT" sketch:type="MSLayerGroup" transform="translate(20.000000, 64.000000)">
+                <path d="M139.816972,409.666444 L139.816972,409.71972 L58,409.71972 L101.660958,205.173662 L139.183028,205.055276 L139.183028,205 L177.339042,205.120386 L221,409.666444 L139.816972,409.666444 Z" id="DANGER-ZONE-DEFEND-mobile" fill="#04C97E" sketch:type="MSShapeGroup"></path>
+                <g id="FIELD-mobile" stroke="#FFFFFF" sketch:type="MSShapeGroup">
+                    <rect id="TURF" stroke-width="5" fill-opacity="0" fill="#548420" x="2" y="0" width="275.747164" height="410" rx="26.1"></rect>
+                    <g id="CENTER-LINE" transform="translate(0.000000, 175.000000)" stroke-width="4" stroke-linecap="square">
+                        <path d="M0.22528363,30 L277.085335,30" id="Line"></path>
+                        <ellipse id="Oval-1" cx="139.225284" cy="29.7362637" rx="29.7374392" ry="29.7362637"></ellipse>
+                    </g>
+                    <g id="GOAL-BOX-ATTACK" transform="translate(95.069692, 1.351648)" stroke-width="4" stroke-linecap="square">
+                        <path d="M0,0 L0,64.8791209 L89.6628849,64.8791209 L89.6628849,0" id="Path-2"></path>
+                        <path d="M23.2780929,-3.55271368e-15 L23.2780929,13.2196299 L67.8661646,13.2196299 L67.8661646,-3.55271368e-15" id="Path-3"></path>
+                        <path d="M75.6952998,95.967033 C75.6952998,79.0464848 61.9779431,65.3296703 45.0567261,65.3296703 C28.1355091,65.3296703 14.4181524,79.0464848 14.4181524,95.967033" id="Oval-2" transform="translate(45.056726, 80.648352) scale(1, -1) translate(-45.056726, -80.648352) "></path>
+                    </g>
+                    <g id="GOAL-BOX-DEFENSE" transform="translate(140.069692, 360.648352) scale(1, -1) translate(-140.069692, -360.648352) translate(95.069692, 312.648352)" stroke-width="4" stroke-linecap="square">
+                        <path d="M0,0 L0,64.8791209 L89.6628849,64.8791209 L89.6628849,0" id="Path-2"></path>
+                        <path d="M23.2780929,-3.55271368e-15 L23.2780929,13.2196299 L67.8661646,13.2196299 L67.8661646,-3.55271368e-15" id="Path-3"></path>
+                        <path d="M75.6952998,95.967033 C75.6952998,79.0464848 61.9779431,65.3296703 45.0567261,65.3296703 C28.1355091,65.3296703 14.4181524,79.0464848 14.4181524,95.967033" id="Oval-2" transform="translate(45.056726, 80.648352) scale(1, -1) translate(-45.056726, -80.648352) "></path>
+                    </g>
+                </g>
+                <g id="ARROW-mobile" transform="translate(83.000000, 269.500000) scale(-1, 1) rotate(-45.000000) translate(-83.000000, -269.500000) translate(67.000000, 261.000000)" sketch:type="MSShapeGroup">
+                    <g id="Page-1" transform="translate(16.000000, -0.000000)" fill="#FEFEFE">
+                        <path d="M0.286954545,0.171163158 L8.61468182,8.36203158 L0.286954545,16.5529 L7.35331818,16.5529 L15.6755909,8.36203158 L7.35331818,0.171163158 L0.286954545,0.171163158 Z" id="Fill-3"></path>
+                    </g>
+                    <circle id="Oval-20" fill="#F9F7F7" cx="14" cy="8" r="2"></circle>
+                    <circle id="Oval-20" fill="#F9F7F7" cx="2" cy="8" r="2"></circle>
+                </g>
+                <g id="PLAYERS" transform="translate(48.000000, 252.000000)">
+                    <g id="KEEPER-mobile" transform="translate(78.000000, 106.000000)">
+                        <g id="PLAYER-mobile" fill="#080808" sketch:type="MSShapeGroup">
+                            <ellipse id="Oval-4-Copy-3" cx="13" cy="13" rx="13" ry="13"></ellipse>
+                        </g>
+                        <text id="K" sketch:type="MSTextLayer" font-family="Gotham" font-size="15.525" font-weight="bold" fill="#02E68F">
+                            <tspan x="7.52631579" y="18.1578947">K</tspan>
+                        </text>
+                    </g>
+                    <g id="MID-mobile" transform="translate(78.000000, 39.000000)">
+                        <g id="PLAYER-mobile" fill="#080808" sketch:type="MSShapeGroup">
+                            <ellipse id="Oval-4-Copy-3" cx="13" cy="13" rx="13" ry="13"></ellipse>
+                        </g>
+                        <text id="M" sketch:type="MSTextLayer" font-family="Gotham" font-size="15.525" font-weight="bold" fill="#02E68F">
+                            <tspan x="6.52631579" y="18.1578947">M</tspan>
+                        </text>
+                    </g>
+                    <g id="DEFENSE-R-mobile" transform="translate(154.000000, 62.000000)">
+                        <g id="PLAYER-mobile" fill="#080808" sketch:type="MSShapeGroup">
+                            <ellipse id="Oval-4-Copy-3" cx="13" cy="13" rx="13" ry="13"></ellipse>
+                        </g>
+                        <text id="D" sketch:type="MSTextLayer" font-family="Gotham" font-size="15.525" font-weight="bold" fill="#02E68F">
+                            <tspan x="7.52631579" y="18.1578947">D</tspan>
+                        </text>
+                    </g>
+                    <g id="ATTACK-R-mobile" transform="translate(121.000000, 0.000000)">
+                        <g id="PLAYER-mobile" fill="#080808" sketch:type="MSShapeGroup">
+                            <ellipse id="Oval-4-Copy-3" cx="13" cy="13" rx="13" ry="13"></ellipse>
+                        </g>
+                        <text id="A" sketch:type="MSTextLayer" font-family="Gotham" font-size="15.525" font-weight="bold" fill="#02E68F">
+                            <tspan x="6.52631579" y="18.1578947">A</tspan>
+                        </text>
+                    </g>
+                    <g id="ATTACK-L-mobile" transform="translate(40.000000, 16.000000)">
+                        <g id="PLAYER-mobile" fill="#080808" sketch:type="MSShapeGroup">
+                            <ellipse id="Oval-4-Copy-3" cx="13" cy="13" rx="13" ry="13"></ellipse>
+                        </g>
+                        <text id="A" sketch:type="MSTextLayer" font-family="Gotham" font-size="15.525" font-weight="bold" fill="#02E68F">
+                            <tspan x="6.52631579" y="18.1578947">A</tspan>
+                        </text>
+                    </g>
+                    <g id="DEFENSE-L-mobile" transform="translate(0.000000, 62.000000)">
+                        <g id="PLAYER-mobile" fill="#080808" sketch:type="MSShapeGroup">
+                            <ellipse id="Oval-4-Copy-3" cx="13" cy="13" rx="13" ry="13"></ellipse>
+                        </g>
+                        <text id="D" sketch:type="MSTextLayer" font-family="Gotham" font-size="15.525" font-weight="bold" fill="#02E68F">
+                            <tspan x="7.52631579" y="18.1578947">D</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="OPPONENTS" transform="translate(29.000000, 215.000000)">
+                    <circle id="Oval-25" stroke="#0E6EBA" stroke-width="3" fill="#02E68F" sketch:type="MSShapeGroup" cx="19" cy="19" r="19"></circle>
+                    <g id="OPPONENT-ATTACK-R-mobile" transform="translate(6.000000, 6.000000)">
+                        <g id="PLAYER-mobile" fill="#0E6EBA" sketch:type="MSShapeGroup">
+                            <ellipse id="Oval-4-Copy-3" cx="13" cy="13" rx="13" ry="13"></ellipse>
+                        </g>
+                        <text id="A" sketch:type="MSTextLayer" font-family="Gotham" font-size="15.525" font-weight="bold" fill="#02E68F">
+                            <tspan x="6.52631579" y="17.1578947">A</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="BALL-mobile" transform="translate(57.000000, 243.000000)" stroke="#050505" stroke-width="3.5" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <ellipse id="Oval-5" cx="7" cy="7" rx="7" ry="7"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
