@@ -25,29 +25,25 @@
                     </g>
                 </g>
                 <g id="PLAYERS" transform="translate(42.000000, 268.000000)">
-                    <circle id="Oval-25" stroke="#080808" stroke-width="3" fill="#02E68F" sketch:type="MSShapeGroup" cx="19" cy="19" r="19"></circle>
-                    <g id="KEEPER-mobile" transform="translate(84.000000, 50.000000)">
-                        <g id="PLAYER-mobile" fill="#080808" sketch:type="MSShapeGroup">
-                            <ellipse id="Oval-4-Copy-3" cx="13" cy="13" rx="13" ry="13"></ellipse>
-                        </g>
-                        <text id="K" sketch:type="MSTextLayer" font-family="Gotham" font-size="15.525" font-weight="bold" fill="#02E68F">
-                            <tspan x="7.52631579" y="18.1578947">K</tspan>
+                    <g id="ACTIVE-RING" stroke="#080808" stroke-width="3" fill="#02E68F" sketch:type="MSShapeGroup">
+                        <circle id="Oval-25" cx="19" cy="19" r="19"></circle>
+                    </g>
+                    <g id="DEFENDER-mobile-Copy" transform="translate(160.000000, 5.000000)">
+                        <ellipse id="PLAYER" fill="#080808" sketch:type="MSShapeGroup" cx="13" cy="13" rx="13" ry="13"></ellipse>
+                        <text id="D" sketch:type="MSTextLayer" font-family="Graphik" font-size="15.525" font-weight="526" fill="#02E68F">
+                            <tspan x="7.52631579" y="19.1578947">D</tspan>
                         </text>
                     </g>
-                    <g id="DEFENSE-R-mobile" transform="translate(160.000000, 6.000000)">
-                        <g id="PLAYER-mobile" fill="#080808" sketch:type="MSShapeGroup">
-                            <ellipse id="Oval-4-Copy-3" cx="13" cy="13" rx="13" ry="13"></ellipse>
-                        </g>
-                        <text id="D" sketch:type="MSTextLayer" font-family="Gotham" font-size="15.525" font-weight="bold" fill="#02E68F">
-                            <tspan x="7.52631579" y="18.1578947">D</tspan>
+                    <g id="KEEPER-mobile-Copy" transform="translate(84.000000, 50.000000)">
+                        <ellipse id="PLAYER" fill="#080808" sketch:type="MSShapeGroup" cx="13" cy="13" rx="13" ry="13"></ellipse>
+                        <text id="K" sketch:type="MSTextLayer" font-family="Graphik" font-size="15.525" font-weight="526" fill="#02E68F">
+                            <tspan x="7.52631579" y="19.1578947">K</tspan>
                         </text>
                     </g>
-                    <g id="DEFENSE-L-mobile" transform="translate(6.000000, 6.000000)">
-                        <g id="PLAYER-mobile" fill="#080808" sketch:type="MSShapeGroup">
-                            <ellipse id="Oval-4-Copy-3" cx="13" cy="13" rx="13" ry="13"></ellipse>
-                        </g>
-                        <text id="D" sketch:type="MSTextLayer" font-family="Gotham" font-size="15.525" font-weight="bold" fill="#02E68F">
-                            <tspan x="7.52631579" y="18.1578947">D</tspan>
+                    <g id="DEFENDER-mobile" transform="translate(6.000000, 6.000000)">
+                        <ellipse id="PLAYER" fill="#080808" sketch:type="MSShapeGroup" cx="13" cy="13" rx="13" ry="13"></ellipse>
+                        <text id="D" sketch:type="MSTextLayer" font-family="Graphik" font-size="15.525" font-weight="526" fill="#02E68F">
+                            <tspan x="7.52631579" y="19.1578947">D</tspan>
                         </text>
                     </g>
                 </g>

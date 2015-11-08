@@ -33,7 +33,7 @@
                     <circle id="Oval-20" fill="#F9F7F7" cx="2" cy="8" r="2"></circle>
                 </g>
                 <g id="ARROW-mobile-Copy-2" transform="translate(141.106406, 225.361216) rotate(-90.000000) translate(-141.106406, -225.361216) translate(125.106406, 216.861216)" sketch:type="MSShapeGroup">
-                    <g id="Page-1" transform="translate(16.000000, -0.000000)" fill="#FEFEFE">
+                    <g id="Page-1" transform="translate(16.000000, 0.000000)" fill="#FEFEFE">
                         <path d="M0.286954545,0.171163158 L8.61468182,8.36203158 L0.286954545,16.5529 L7.35331818,16.5529 L15.6755909,8.36203158 L7.35331818,0.171163158 L0.286954545,0.171163158 Z" id="Fill-3"></path>
                     </g>
                     <circle id="Oval-20" fill="#F9F7F7" cx="14" cy="8" r="2"></circle>

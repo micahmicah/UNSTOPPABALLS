@@ -27,7 +27,7 @@
                 </g>
                 <g id="SHOT" transform="translate(92.000000, 88.000000)" sketch:type="MSShapeGroup">
                     <g id="ARROW-mobile" transform="translate(16.500000, 18.000000) rotate(-70.000000) translate(-16.500000, -18.000000) translate(0.500000, 9.500000)">
-                        <g id="Page-1" transform="translate(16.000000, -0.000000)" fill="#FEFEFE">
+                        <g id="Page-1" transform="translate(16.000000, 0.000000)" fill="#FEFEFE">
                             <path d="M0.286954545,0.171163158 L8.61468182,8.36203158 L0.286954545,16.5529 L7.35331818,16.5529 L15.6755909,8.36203158 L7.35331818,0.171163158 L0.286954545,0.171163158 Z" id="Fill-3"></path>
                         </g>
                         <circle id="Oval-20" fill="#F9F7F7" cx="14" cy="8" r="2"></circle>
@@ -39,7 +39,7 @@
                 </g>
                 <g id="SHOT" transform="translate(144.000000, 66.000000)" sketch:type="MSShapeGroup">
                     <g id="ARROW-mobile-Copy-2" transform="translate(12.459710, 17.942253) rotate(-103.000000) translate(-12.459710, -17.942253) translate(-3.540290, 9.442253)">
-                        <g id="Page-1" transform="translate(16.000000, -0.000000)" fill="#FEFEFE">
+                        <g id="Page-1" transform="translate(16.000000, 0.000000)" fill="#FEFEFE">
                             <path d="M0.286954545,0.171163158 L8.61468182,8.36203158 L0.286954545,16.5529 L7.35331818,16.5529 L15.6755909,8.36203158 L7.35331818,0.171163158 L0.286954545,0.171163158 Z" id="Fill-3"></path>
                         </g>
                         <circle id="Oval-20" fill="#F9F7F7" cx="14" cy="8" r="2"></circle>
