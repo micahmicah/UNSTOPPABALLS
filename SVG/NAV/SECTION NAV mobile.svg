@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="277px" height="21px" viewBox="0 0 277 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>SECTION NAV mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="MOBILE-template" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="MOBILE-STANDARD" sketch:type="MSArtboardGroup" transform="translate(-20.000000, -18.000000)" fill="#FFFFFF">
+            <g id="SECTION-NAV-mobile" sketch:type="MSLayerGroup" transform="translate(20.000000, 16.000000)">
+                <text id="SECTION" sketch:type="MSTextLayer" font-family="Gotham" font-size="28" font-weight="bold">
+                    <tspan x="75" y="22">SECTION</tspan>
+                </text>
+                <g id="SECTION-TOGGLE" transform="translate(268.000000, 7.000000)" sketch:type="MSShapeGroup">
+                    <path d="M4.25,11 L10.5,11 L4.42857143,3 L-2,11 L4.25,11 Z" id="SECTION-TOGGLE-right" transform="translate(4.250000, 7.000000) scale(1, -1) rotate(-270.000000) translate(-4.250000, -7.000000) "></path>
+                </g>
+                <g id="SECTION-TOGGLE-Copy" transform="translate(4.500000, 14.000000) scale(-1, 1) translate(-4.500000, -14.000000) translate(0.000000, 7.000000)" sketch:type="MSShapeGroup">
+                    <path d="M4.25,11 L10.5,11 L4.42857143,3 L-2,11 L4.25,11 Z" id="SECTION-TOGGLE-right" transform="translate(4.250000, 7.000000) scale(1, -1) rotate(-270.000000) translate(-4.250000, -7.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

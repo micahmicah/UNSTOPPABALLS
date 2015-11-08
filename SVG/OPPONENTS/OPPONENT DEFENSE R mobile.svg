@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>OPPONENT DEFENSE R mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="MOBILE-template" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="MOBILE-STANDARD" sketch:type="MSArtboardGroup" transform="translate(-69.000000, -109.000000)">
+            <g id="OPPONENTS" sketch:type="MSLayerGroup" transform="translate(69.000000, 83.000000)">
+                <g id="OPPONENT-DEFENSE-R-mobile" transform="translate(0.000000, 26.000000)">
+                    <g id="PLAYER-mobile" fill="#0E6EBA" sketch:type="MSShapeGroup">
+                        <ellipse id="Oval-4-Copy-3" cx="13" cy="13" rx="13" ry="13"></ellipse>
+                    </g>
+                    <text id="D" sketch:type="MSTextLayer" font-family="Gotham" font-size="15.525" font-weight="bold" fill="#02E68F">
+                        <tspan x="7.52631579" y="18.1578947">D</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

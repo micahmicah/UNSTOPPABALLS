@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="57px" height="57px" viewBox="0 0 57 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>ATTACKER L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="DESKTOP-template" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="DESKTOP-STANDARD" sketch:type="MSArtboardGroup" transform="translate(-258.000000, -601.000000)">
+            <g id="PLAYERS" sketch:type="MSLayerGroup" transform="translate(153.000000, 601.000000)">
+                <g id="ATTACKER-L" transform="translate(105.000000, 0.000000)">
+                    <g id="PLAYER-Copy-5" fill="#080808" sketch:type="MSShapeGroup">
+                        <ellipse id="Oval-4-Copy-3" cx="28.5" cy="28.5" rx="28.5" ry="28.5"></ellipse>
+                    </g>
+                    <text id="A-Copy" sketch:type="MSTextLayer" font-family="Gotham" font-size="34.5" font-weight="bold" fill="#02E68F">
+                        <tspan x="15" y="40">A</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
