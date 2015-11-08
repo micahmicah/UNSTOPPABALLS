@@ -4,16 +4,16 @@
     <title>KEEPER mobile</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="MOBILE-template" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="MOBILE-STANDARD" sketch:type="MSArtboardGroup" transform="translate(-146.000000, -422.000000)">
-            <g id="PLAYERS" sketch:type="MSLayerGroup" transform="translate(68.000000, 306.000000)">
-                <g id="KEEPER-mobile" transform="translate(78.000000, 116.000000)">
-                    <g id="PLAYER-mobile" fill="#080808" sketch:type="MSShapeGroup">
-                        <ellipse id="Oval-4-Copy-3" cx="13" cy="13" rx="13" ry="13"></ellipse>
+    <g id="SEQUENCE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="ATTACKING-10" sketch:type="MSArtboardGroup" transform="translate(-146.000000, -422.000000)">
+            <g id="LAYOUT" sketch:type="MSLayerGroup" transform="translate(20.000000, 64.000000)">
+                <g id="PLAYERS" transform="translate(22.000000, 43.000000)">
+                    <g id="KEEPER-mobile" transform="translate(104.000000, 315.000000)">
+                        <ellipse id="PLAYER" fill="#080808" sketch:type="MSShapeGroup" cx="13" cy="13" rx="13" ry="13"></ellipse>
+                        <text id="K" sketch:type="MSTextLayer" font-family="Graphik" font-size="15.525" font-weight="526" fill="#02E68F">
+                            <tspan x="7.52631579" y="19.1578947">K</tspan>
+                        </text>
                     </g>
-                    <text id="K" sketch:type="MSTextLayer" font-family="Gotham" font-size="15.525" font-weight="bold" fill="#02E68F">
-                        <tspan x="7.52631579" y="18.1578947">K</tspan>
-                    </text>
                 </g>
             </g>
         </g>

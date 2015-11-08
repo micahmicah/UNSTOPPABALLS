@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
-    <title>MID mobile</title>
+    <title>OPPONENT MID Copy</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="SEQUENCE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="ATTACKING-10" sketch:type="MSArtboardGroup" transform="translate(-151.000000, -274.000000)">
+        <g id="ATTACKING-10" sketch:type="MSArtboardGroup" transform="translate(-145.000000, -236.000000)">
             <g id="LAYOUT" sketch:type="MSLayerGroup" transform="translate(20.000000, 64.000000)">
-                <g id="PLAYERS" transform="translate(22.000000, 43.000000)">
-                    <g id="MID-mobile" transform="translate(109.000000, 167.000000)">
-                        <ellipse id="PLAYER" fill="#080808" sketch:type="MSShapeGroup" cx="13" cy="13" rx="13" ry="13"></ellipse>
+                <g id="OPPONENTS" transform="translate(49.000000, 19.000000)">
+                    <g id="OPPONENT-MID-Copy" transform="translate(76.000000, 153.000000)">
+                        <ellipse id="PLAYER" fill="#0E6EBA" sketch:type="MSShapeGroup" cx="13" cy="13" rx="13" ry="13"></ellipse>
                         <text id="M" sketch:type="MSTextLayer" font-family="Graphik" font-size="15.525" font-weight="526" fill="#02E68F">
                             <tspan x="5.52631579" y="18.1578947">M</tspan>
                         </text>
